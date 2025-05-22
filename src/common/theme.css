@@ -1,7 +1,7 @@
 /* 테마 변수 디렉티브 (@theme) */
 @theme {
   /* 색상을 초기화 후 원하는 색상만 등록 */
-  --color-*: initial;
+  /* --color-*: initial; */
 
   --color-likelion: oklch(0.72 0.11 178);
   /* 글꼴 추가 */
