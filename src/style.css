@@ -8,6 +8,9 @@
   --color-lion: green;
 
   --building: url(/src/assets/images/building.avif);
+  --font-pretendard: 'Pretendard Variable', Pretendard, sans-serif;
+
+  --autofit: repeat(auto-fit, minmax(240px, 1fr));
 }
 
 @layer components {
